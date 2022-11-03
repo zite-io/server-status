@@ -25,7 +25,7 @@ This repository contains the open-source uptime monitor and status page for [Zit
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Zite.github.io/upptime)
+[**Visit our status website →**](https://zite-io.github.io/server-status)
 
 ## 📄 License
 

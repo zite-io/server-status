@@ -7,14 +7,19 @@ sites:
     url: https://app.zite.io
   - name: B-Zite
     url: https://app.zite.io/api/v2/sectors
+    assignees:
+        - mahesh-naxa
   - name: F-Common Feedback Platform 
     url: https://commonfeedbackplatform.org
+    assignees:
+        - mahesh-naxa
   - name: B-Common Feedback Platform 
     url: https://commonfeedbackplatform.org/api/v2/sectors
   - name: F-Zite Manager
     url: https://app.zitemanager.org/
   - name: B-Zite Manager
-    url: https://app.zitemanager.org/api/v2/sectors    
+    url: https://app.zitemanager.org/api/v2/sectors
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

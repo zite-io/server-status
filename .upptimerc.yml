@@ -6,15 +6,15 @@ sites:
   - name: F-Zite 
     url: https://app.zite.io
   - name: B-Zite
-    url: https://app.zite.io/api/v2/notification/count
+    url: https://app.zite.io/api/v2/sectors
   - name: F-Common Feedback Platform 
-    url: https:commonfeedbackplatform.org
+    url: https://commonfeedbackplatform.org
   - name: B-Common Feedback Platform 
-    url: https:commonfeedbackplatform.org/api/v2/notification/count
+    url: https://commonfeedbackplatform.org/api/v2/sectors
   - name: F-Zite Manager
     url: https://app.zitemanager.org/
   - name: B-Zite Manager
-    url: https://app.zitemanager.org/api/v2/notification/count    
+    url: https://app.zitemanager.org/api/v2/sectors    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

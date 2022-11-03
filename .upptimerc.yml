@@ -20,7 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /server-status
   logoUrl: https://app.zite.io/static/img/logo.png
   name: Zite Status Dashboard
   introTitle: "**Zite Status Dashboard** is a uptime monitor and status page for Zite Products"

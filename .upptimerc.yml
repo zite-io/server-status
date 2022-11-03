@@ -1,26 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Zite # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: F: Zite 
+    url: https://app.zite.io
+  - name: B: Zite
+    url: https://app.zite.io/api/v2/notification/count
+  - name: F: Common Feedback Platform 
+    url: https:commonfeedbackplatform.org
+  - name: B: Common Feedback Platform 
+    url: https:commonfeedbackplatform.org/api/v2/notification/count
+  - name: F: Zite Manager
+    url: https://app.zitemanager.org/
+  - name: B: Zite Manager
+    url: https://app.zitemanager.org/api/v2/notification/count    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://app.zite.io/static/img/logo.png
+  name: Zite Status Dashboard
+  introTitle: "**Zite Status Dashboard** is a uptime monitor and status page for Zite Products"
+  introMessage: Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support. 
   navbar:
     - title: Status
       href: /

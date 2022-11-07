@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Zite.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://zite-io.github.io/server-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Zite](https://zite-io.github.io/server-status), powered by [Upptime](https://github.com/upptime/upptime).
 

@@ -4,19 +4,19 @@
     "url": "https://app.zite.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.zite.io.ico",
     "slug": "f-zite",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 639,
-    "timeDay": 565,
-    "timeWeek": 571,
+    "timeDay": 594,
+    "timeWeek": 580,
     "timeMonth": 641,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-01-04": 18
+      "2023-01-04": 30
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.zite.io/api/v2/sectors",
     "icon": "https://icons.duckduckgo.com/ip3/app.zite.io.ico",
     "slug": "b-zite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 630,
-    "timeWeek": 566,
-    "timeMonth": 1064,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 812,
+    "timeDay": 642,
+    "timeWeek": 577,
+    "timeMonth": 1052,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2023-01-04": 0
+      "2023-01-04": 13
     }
   },
   {

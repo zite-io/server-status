@@ -4,10 +4,10 @@
     "url": "https://app.zite.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.zite.io.ico",
     "slug": "f-zite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 639,
@@ -16,7 +16,7 @@
     "timeMonth": 641,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-01-04": 16
+      "2023-01-04": 18
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://app.zite.io/api/v2/sectors",
     "icon": "https://icons.duckduckgo.com/ip3/app.zite.io.ico",
     "slug": "b-zite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 566,
     "timeMonth": 1064,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "F-Common Feedback Platform",

@@ -4,11 +4,11 @@
     "url": "https://app.zite.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.zite.io.ico",
     "slug": "f-zite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.85%",
     "time": 651,
     "timeDay": 682,
@@ -16,6 +16,7 @@
     "timeMonth": 662,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2023-01-30": 1,
       "2023-01-05": 178,
       "2023-01-04": 16
     }

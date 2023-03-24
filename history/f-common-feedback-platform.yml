@@ -1,7 +1,7 @@
 url: https://commonfeedbackplatform.org
-status: up
-code: 204
-responseTime: 324
-lastUpdated: 2023-03-24T11:59:49.100Z
+status: down
+code: 504
+responseTime: 10411
+lastUpdated: 2023-03-24T12:59:28.076Z
 startTime: Thu Nov 03 2022 12:19:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

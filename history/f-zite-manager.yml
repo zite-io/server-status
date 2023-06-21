@@ -1,7 +1,7 @@
 url: https://app.zitemanager.org/
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2023-06-20T23:13:42.255Z
+status: down
+code: 503
+responseTime: 354
+lastUpdated: 2023-06-21T13:09:02.657Z
 startTime: Thu Nov 03 2022 12:19:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

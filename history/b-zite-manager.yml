@@ -1,7 +1,7 @@
 url: https://app.zitemanager.org/api/v2/sectors
-status: down
-code: 500
-responseTime: 513
-lastUpdated: 2023-07-26T08:30:28.355Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2023-07-26T08:41:20.183Z
 startTime: Thu Nov 03 2022 12:19:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

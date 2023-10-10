@@ -1,7 +1,7 @@
 url: https://app.zite.io
-status: up
-code: 200
-responseTime: 15412
-lastUpdated: 2023-10-10T08:50:53.289Z
+status: down
+code: 502
+responseTime: 548
+lastUpdated: 2023-10-10T09:33:20.130Z
 startTime: 2022-11-03T12:19:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>

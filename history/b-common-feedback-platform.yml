@@ -1,7 +1,7 @@
 url: https://commonfeedbackplatform.org/api/v2/sectors
-status: down
-code: 503
-responseTime: 98
-lastUpdated: 2023-10-13T08:27:37.617Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2023-10-13T09:19:19.884Z
 startTime: 2022-11-03T12:19:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
